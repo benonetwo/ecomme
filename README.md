@@ -27,9 +27,6 @@ Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express
 
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine
-
-```bash
-git clone https://github.com/your-username/MERN-eCommerce.git
 ```
 
 ```bash
@@ -106,12 +103,12 @@ npm run data:destroy
 
 ## Sample User Logins
 
-- **Live Admin Dashboard Login:**: [https://mern-shop-abxs.onrender.com/admin/login](https://mern-shop-abxs.onrender.com/admin/login)
+- **Live Admin Dashboard Login:**: [http://localhost:3000/admin/login]
 
   - Email: admin@admin.com
   - Password: admin123
 
-- **Live Customer Logins:**: [https://mern-shop-abxs.onrender.com/login](https://mern-shop-abxs.onrender.com/login)
+- **Live Customer Logins:**: [http://localhost:3000/login]
   - John Doe
     - Email: john@email.com
     - Password: john123
